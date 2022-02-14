@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/python3
 #Imports...
 from rich.console import Console 
 from rich.text import Text
